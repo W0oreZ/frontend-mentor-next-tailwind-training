@@ -1,0 +1,16 @@
+{
+  "name": "frontend-mentor-next-tailwind-training",
+  "version": "1.0.0",
+  "description": "next project to build multitude of challenges for frontend-mentor website and tailwindcss trainning playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EL-KHADIRI Abderrazak",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
