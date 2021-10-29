@@ -4,7 +4,10 @@
   "description": "next project to build multitude of challenges for frontend-mentor website and tailwindcss trainning playground",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "author": "EL-KHADIRI Abderrazak",
   "license": "MIT",
@@ -12,5 +15,10 @@
     "next": "^12.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17"
   }
 }
